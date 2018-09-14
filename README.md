@@ -1,1 +1,1 @@
-# mysmart_project
+#mydailyjournal
